@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as e}from"./chunks/framework.CflXwq_F.js";const c=JSON.parse('{"title":"Introduction","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),n={name:"guide.md"};function h(l,s,p,k,r,d){return t(),a("div",null,s[0]||(s[0]=[e("",78)]))}const g=i(n,[["render",h]]);export{c as __pageData,g as default};

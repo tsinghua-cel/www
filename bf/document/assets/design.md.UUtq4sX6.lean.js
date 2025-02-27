@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as i,ae as s}from"./chunks/framework.CflXwq_F.js";const p=JSON.parse('{"title":"System Design","description":"","frontmatter":{},"headers":[],"relativePath":"design.md","filePath":"design.md"}'),n={name:"design.md"};function o(r,e,l,d,c,h){return i(),a("div",null,e[0]||(e[0]=[s("",23)]))}const m=t(n,[["render",o]]);export{p as __pageData,m as default};

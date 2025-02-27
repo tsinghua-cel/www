@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as p,ae as e}from"./chunks/framework.CflXwq_F.js";const A=JSON.parse('{"title":"Database Creation Statement","description":"","frontmatter":{},"headers":[],"relativePath":"db.md","filePath":"db.md"}'),l={name:"db.md"};function T(t,s,N,L,i,c){return p(),a("div",null,s[0]||(s[0]=[e("",3)]))}const o=n(l,[["render",T]]);export{A as __pageData,o as default};
