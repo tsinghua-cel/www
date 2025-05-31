@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as n,ae as t}from"./chunks/framework.CLBIubxr.js";const g=JSON.parse('{"title":"Basic Usage","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),p={name:"usage.md"};function i(c,s,l,r,h,o){return n(),e("div",null,s[0]||(s[0]=[t("",19)]))}const u=a(p,[["render",i]]);export{g as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as p,ae as l}from"./chunks/framework.CLBIubxr.js";const _=JSON.parse('{"title":"Database Creation Statement","description":"","frontmatter":{},"headers":[],"relativePath":"db.md","filePath":"db.md"}'),t={name:"db.md"};function e(i,n,c,o,u,d){return p(),s("div",null,n[0]||(n[0]=[l("",3)]))}const f=a(t,[["render",e]]);export{_ as __pageData,f as default};
